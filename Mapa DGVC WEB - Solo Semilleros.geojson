@@ -33,7 +33,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":null,
-    "Consecutivo":115
+    "Consecutivo":1
     }
   },
   {
@@ -68,7 +68,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":116
+    "Consecutivo":2
     }
   },
   {
@@ -103,7 +103,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":117
+    "Consecutivo":3
     }
   },
   {
@@ -138,7 +138,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":118
+    "Consecutivo":4
     }
   },
   {
@@ -173,7 +173,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":119
+    "Consecutivo":5
     }
   },
   {
@@ -208,7 +208,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":120
+    "Consecutivo":6
     }
   },
   {
@@ -243,7 +243,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":121
+    "Consecutivo":7
     }
   },
   {
@@ -278,7 +278,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":122
+    "Consecutivo":8
     }
   },
   {
@@ -313,7 +313,42 @@
     "Personas con Discapacidad":6,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":123
+    "Consecutivo":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.96493513,19.22534804 ]
+    },
+    "properties": {
+    "Programa":"Semilleros Creativos",
+    "Región":"Centro",
+    "Área":"DVEM",
+    "Coordinación":"DGVC",
+    "Estado":"Ciudad de México",
+    "Municipio":"Tláhuac",
+    "Localidad":"San Andrés Mixquic",
+    "Nombre del semillero":"Semillero Creativo de Artes Plásticas en San Andrés Mixquic, Tláhuac, Ciudad de México",
+    "Sedes":"Museo Andrés Quintana Roo",
+    "Direcciones":"Av. Independencia S/N, San Andrés Mixquic, CP. 13630, Tláhuac, Ciudad de México",
+    "Horarios":"Lunes a jueves de 10:00 a 12:00 h\nLunes, miércoles y viernes de 16:00 a 18:30 h",
+    "Rama Artística (DT)":"Artes Plásticas",
+    "Año de creación":"2025",
+    "Atención a las causas":"No",
+    "Número promotores":4,
+    "Cantidad de participantes":30,
+    "Niñas":13,
+    "Niños":7,
+    "Mujeres Jóvenes":3,
+    "Hombres Jóvenes":0,
+    "Mujeres adultas":7,
+    "Hombres adultos":0,
+    "Personas con Discapacidad":0,
+    "Personas Indígenas":0,
+    "Personas Afromexicanas":0,
+    "Consecutivo":10
     }
   },
   {
@@ -348,7 +383,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":124
+    "Consecutivo":11
     }
   },
   {
@@ -383,7 +418,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":125
+    "Consecutivo":12
     }
   },
   {
@@ -418,7 +453,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":126
+    "Consecutivo":13
     }
   },
   {
@@ -453,7 +488,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":127
+    "Consecutivo":14
     }
   },
   {
@@ -488,7 +523,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":128
+    "Consecutivo":15
     }
   },
   {
@@ -523,7 +558,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":129
+    "Consecutivo":16
     }
   },
   {
@@ -546,7 +581,7 @@
     "Horarios":"Sede 1: Lunes a viernes de 15:00 a 17:00 h\nSede 2: lunes a viernes de 17:00 a 19:00 h",
     "Rama Artística (DT)":"Artes Plásticas",
     "Año de creación":"2019",
-    "Atención a las causas":"Sí",
+    "Atención a las causas":"No",
     "Número promotores":2,
     "Cantidad de participantes":34,
     "Niñas":23,
@@ -558,7 +593,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":130
+    "Consecutivo":17
     }
   },
   {
@@ -581,7 +616,7 @@
     "Horarios":"Sede 1: Lunes, miércoles y viernes de 14:00 a 17:00 h\n Sede 2: Martes y jueves de 13:00 a 17:00 h",
     "Rama Artística (DT)":"Artes Escénicas",
     "Año de creación":"2019",
-    "Atención a las causas":"Sí",
+    "Atención a las causas":"No",
     "Número promotores":2,
     "Cantidad de participantes":32,
     "Niñas":15,
@@ -593,7 +628,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":131
+    "Consecutivo":18
     }
   },
   {
@@ -628,7 +663,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":132
+    "Consecutivo":19
     }
   },
   {
@@ -663,7 +698,7 @@
     "Personas con Discapacidad":3,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":133
+    "Consecutivo":20
     }
   },
   {
@@ -698,7 +733,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":134
+    "Consecutivo":21
     }
   },
   {
@@ -733,7 +768,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":2,
     "Personas Afromexicanas":0,
-    "Consecutivo":135
+    "Consecutivo":22
     }
   },
   {
@@ -768,7 +803,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":14,
     "Personas Afromexicanas":0,
-    "Consecutivo":136
+    "Consecutivo":23
     }
   },
   {
@@ -803,7 +838,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":1,
     "Personas Afromexicanas":0,
-    "Consecutivo":137
+    "Consecutivo":24
     }
   },
   {
@@ -838,7 +873,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":1,
     "Personas Afromexicanas":0,
-    "Consecutivo":138
+    "Consecutivo":25
     }
   },
   {
@@ -873,7 +908,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":1,
     "Personas Afromexicanas":0,
-    "Consecutivo":139
+    "Consecutivo":26
     }
   },
   {
@@ -908,7 +943,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":140
+    "Consecutivo":27
     }
   },
   {
@@ -943,7 +978,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":141
+    "Consecutivo":28
     }
   },
   {
@@ -978,7 +1013,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":91,
     "Personas Afromexicanas":0,
-    "Consecutivo":142
+    "Consecutivo":29
     }
   },
   {
@@ -1013,7 +1048,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":38,
-    "Consecutivo":143
+    "Consecutivo":30
     }
   },
   {
@@ -1048,7 +1083,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":144
+    "Consecutivo":31
     }
   },
   {
@@ -1083,7 +1118,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":145
+    "Consecutivo":32
     }
   },
   {
@@ -1118,7 +1153,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":146
+    "Consecutivo":33
     }
   },
   {
@@ -1153,7 +1188,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":147
+    "Consecutivo":34
     }
   },
   {
@@ -1188,7 +1223,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":56,
     "Personas Afromexicanas":0,
-    "Consecutivo":148
+    "Consecutivo":35
     }
   },
   {
@@ -1223,7 +1258,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":2,
-    "Consecutivo":149
+    "Consecutivo":36
     }
   },
   {
@@ -1258,7 +1293,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":150
+    "Consecutivo":37
     }
   },
   {
@@ -1293,7 +1328,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":15,
     "Personas Afromexicanas":0,
-    "Consecutivo":151
+    "Consecutivo":38
     }
   },
   {
@@ -1328,7 +1363,42 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":1,
     "Personas Afromexicanas":0,
-    "Consecutivo":152
+    "Consecutivo":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.20335339,18.91142049 ]
+    },
+    "properties": {
+    "Programa":"Semilleros Creativos",
+    "Región":"Centro",
+    "Área":"DVEM",
+    "Coordinación":"DGVC",
+    "Estado":"Morelos",
+    "Municipio":"Cuernavaca",
+    "Localidad":"Cuernavaca",
+    "Nombre del semillero":"Semillero Creativo de Artes Plásticas en Cuernavaca, Morelos",
+    "Sedes":"Centro de Desarrollo Comunitario Emiliano Zapata",
+    "Direcciones":"Calle Anenecuilco S/N, esquina con Zeferino Ortega, Emiliano Zapata, CP. 62466, Cuernavaca, Morelos",
+    "Horarios":"Lunes a viernes de 15:00 a 18:00 h",
+    "Rama Artística (DT)":"Artes Plásticas",
+    "Año de creación":"2020",
+    "Atención a las causas":"No",
+    "Número promotores":1,
+    "Cantidad de participantes":22,
+    "Niñas":15,
+    "Niños":7,
+    "Mujeres Jóvenes":0,
+    "Hombres Jóvenes":0,
+    "Mujeres adultas":0,
+    "Hombres adultos":0,
+    "Personas con Discapacidad":0,
+    "Personas Indígenas":0,
+    "Personas Afromexicanas":0,
+    "Consecutivo":40
     }
   },
   {
@@ -1363,42 +1433,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":2,
     "Personas Afromexicanas":0,
-    "Consecutivo":153
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -99.20335339,18.91142049 ]
-    },
-    "properties": {
-    "Programa":"Semilleros Creativos",
-    "Región":"Centro",
-    "Área":"DVEM",
-    "Coordinación":"DGVC",
-    "Estado":"Morelos",
-    "Municipio":"Cuernavaca",
-    "Localidad":"Fraccionamiento Lomas de Ahuatlán",
-    "Nombre del semillero":"Semillero Creativo de Artes Plásticas en Cuernavaca, Morelos",
-    "Sedes":"Centro de Desarrollo Comunitario Emiliano Zapata",
-    "Direcciones":"Calle Anenecuilco S/N, esquina con Zeferino Ortega, Emiliano Zapata, CP. 62466, Cuernavaca, Morelos",
-    "Horarios":"Lunes a viernes de 15:00 a 18:00 h",
-    "Rama Artística (DT)":"Artes Plásticas",
-    "Año de creación":"2020",
-    "Atención a las causas":"No",
-    "Número promotores":1,
-    "Cantidad de participantes":22,
-    "Niñas":15,
-    "Niños":7,
-    "Mujeres Jóvenes":0,
-    "Hombres Jóvenes":0,
-    "Mujeres adultas":0,
-    "Hombres adultos":0,
-    "Personas con Discapacidad":0,
-    "Personas Indígenas":0,
-    "Personas Afromexicanas":0,
-    "Consecutivo":154
+    "Consecutivo":41
     }
   },
   {
@@ -1414,7 +1449,7 @@
     "Coordinación":"DGVC",
     "Estado":"Morelos",
     "Municipio":"Cuernavaca",
-    "Localidad":"Fraccionamiento Lomas de Ahuatlán",
+    "Localidad":"Cuernavaca",
     "Nombre del semillero":"Semillero Creativo de Teatro y Títeres en Cuernavaca, Morelos",
     "Sedes":"Centro de Desarrollo Comunitario \"Chocolates\".",
     "Direcciones":"Calle Rubén Darí­o 201, Col. Carolina, C.P. 62190, Cuernavaca, Morelos.",
@@ -1433,7 +1468,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":155
+    "Consecutivo":42
     }
   },
   {
@@ -1468,7 +1503,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":156
+    "Consecutivo":43
     }
   },
   {
@@ -1503,7 +1538,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":24,
     "Personas Afromexicanas":0,
-    "Consecutivo":157
+    "Consecutivo":44
     }
   },
   {
@@ -1538,7 +1573,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":158
+    "Consecutivo":45
     }
   },
   {
@@ -1573,7 +1608,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":159
+    "Consecutivo":46
     }
   },
   {
@@ -1608,7 +1643,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":160
+    "Consecutivo":47
     }
   },
   {
@@ -1643,7 +1678,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":161
+    "Consecutivo":48
     }
   },
   {
@@ -1678,7 +1713,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":162
+    "Consecutivo":49
     }
   },
   {
@@ -1713,7 +1748,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":163
+    "Consecutivo":50
     }
   },
   {
@@ -1748,7 +1783,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":164
+    "Consecutivo":51
     }
   },
   {
@@ -1783,7 +1818,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":23,
     "Personas Afromexicanas":0,
-    "Consecutivo":165
+    "Consecutivo":52
     }
   },
   {
@@ -1818,7 +1853,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":166
+    "Consecutivo":53
     }
   },
   {
@@ -1853,7 +1888,7 @@
     "Personas con Discapacidad":4,
     "Personas Indígenas":11,
     "Personas Afromexicanas":0,
-    "Consecutivo":167
+    "Consecutivo":54
     }
   },
   {
@@ -1888,7 +1923,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":168
+    "Consecutivo":55
     }
   },
   {
@@ -1923,7 +1958,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":169
+    "Consecutivo":56
     }
   },
   {
@@ -1958,7 +1993,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":170
+    "Consecutivo":57
     }
   },
   {
@@ -1993,7 +2028,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":171
+    "Consecutivo":58
     }
   },
   {
@@ -2028,7 +2063,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":172
+    "Consecutivo":59
     }
   },
   {
@@ -2063,7 +2098,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":173
+    "Consecutivo":60
     }
   },
   {
@@ -2098,7 +2133,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":174
+    "Consecutivo":61
     }
   },
   {
@@ -2133,7 +2168,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":175
+    "Consecutivo":62
     }
   },
   {
@@ -2168,7 +2203,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":176
+    "Consecutivo":63
     }
   },
   {
@@ -2203,7 +2238,7 @@
     "Personas con Discapacidad":26,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":177
+    "Consecutivo":64
     }
   },
   {
@@ -2220,13 +2255,13 @@
     "Estado":"Estado de México",
     "Municipio":"Ecatepec de Morelos",
     "Localidad":"Ecatepec de Morelos",
-    "Nombre del semillero":"Semillero Banda Sinfónica Comunitaria \"Jóvenes en Armonía\"",
+    "Nombre del semillero":"Semillero Banda Comunitaria \"Reíces del viento\"",
     "Sedes":"Centro Cultural La Piramide",
     "Direcciones":"Avenida Adolfo López Mateos esquina con Boulevard de los Aztecas S/N. Col. Ciudad Azteca 1ra Sección. Ecatepec de Morelos, Estado de México.",
     "Horarios":"Lunes a viernes de 15:00 a 18:00 h",
     "Rama Artística (DT)":"Formación musical",
     "Año de creación":"2012",
-    "Atención a las causas":"Sí",
+    "Atención a las causas":"No",
     "Número promotores":3,
     "Cantidad de participantes":38,
     "Niñas":16,
@@ -2238,7 +2273,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":178
+    "Consecutivo":65
     }
   },
   {
@@ -2273,7 +2308,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":179
+    "Consecutivo":66
     }
   },
   {
@@ -2308,7 +2343,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":180
+    "Consecutivo":67
     }
   },
   {
@@ -2343,7 +2378,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":181
+    "Consecutivo":68
     }
   },
   {
@@ -2378,7 +2413,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":182
+    "Consecutivo":69
     }
   },
   {
@@ -2413,7 +2448,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":183
+    "Consecutivo":70
     }
   },
   {
@@ -2448,7 +2483,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":184
+    "Consecutivo":71
     }
   },
   {
@@ -2483,7 +2518,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":185
+    "Consecutivo":72
     }
   },
   {
@@ -2518,7 +2553,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":186
+    "Consecutivo":73
     }
   },
   {
@@ -2553,7 +2588,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":187
+    "Consecutivo":74
     }
   },
   {
@@ -2588,7 +2623,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":188
+    "Consecutivo":75
     }
   },
   {
@@ -2623,7 +2658,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":189
+    "Consecutivo":76
     }
   },
   {
@@ -2658,7 +2693,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":190
+    "Consecutivo":77
     }
   },
   {
@@ -2674,7 +2709,7 @@
     "Coordinación":"SNFM",
     "Estado":"Morelos",
     "Municipio":"Cuernavaca",
-    "Localidad":"Fraccionamiento Lomas de Ahuatlán",
+    "Localidad":"Cuernavaca",
     "Nombre del semillero":"Semillero Coro Comunitario en Movimiento \"Sonemos\"",
     "Sedes":"Internado Palmira",
     "Direcciones":"Av. Palmira 183, Benito Juárez Centro, Cuernavaca, Morelos, C.P 62050",
@@ -2693,7 +2728,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":191
+    "Consecutivo":78
     }
   },
   {
@@ -2709,7 +2744,7 @@
     "Coordinación":"SNFM",
     "Estado":"Morelos",
     "Municipio":"Cuernavaca",
-    "Localidad":"Fraccionamiento Lomas de Ahuatlán",
+    "Localidad":"Cuernavaca",
     "Nombre del semillero":"Semillero Orquesta Sinfónica Comunitaria de Cuernavaca",
     "Sedes":"Internado Palmira",
     "Direcciones":"Av. Palmira 183, Benito Juárez Centro, Cuernavaca, Morelos, C.P 62050",
@@ -2728,7 +2763,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":192
+    "Consecutivo":79
     }
   },
   {
@@ -2763,7 +2798,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":193
+    "Consecutivo":80
     }
   },
   {
@@ -2798,7 +2833,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":194
+    "Consecutivo":81
     }
   },
   {
@@ -2833,7 +2868,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":195
+    "Consecutivo":82
     }
   },
   {
@@ -2858,17 +2893,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":29,
-    "Niñas":16,
+    "Cantidad de participantes":38,
+    "Niñas":24,
     "Niños":2,
     "Mujeres Jóvenes":8,
-    "Hombres Jóvenes":2,
+    "Hombres Jóvenes":3,
     "Mujeres adultas":0,
     "Hombres adultos":1,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":196
+    "Consecutivo":83
     }
   },
   {
@@ -2893,17 +2928,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":47,
-    "Niñas":10,
-    "Niños":6,
+    "Cantidad de participantes":67,
+    "Niñas":16,
+    "Niños":14,
     "Mujeres Jóvenes":0,
-    "Hombres Jóvenes":31,
+    "Hombres Jóvenes":37,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":197
+    "Consecutivo":84
     }
   },
   {
@@ -2938,7 +2973,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":11,
     "Personas Afromexicanas":0,
-    "Consecutivo":198
+    "Consecutivo":85
     }
   },
   {
@@ -2963,17 +2998,17 @@
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":34,
-    "Niñas":13,
-    "Niños":10,
-    "Mujeres Jóvenes":7,
+    "Cantidad de participantes":25,
+    "Niñas":9,
+    "Niños":7,
+    "Mujeres Jóvenes":5,
     "Hombres Jóvenes":4,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":15,
     "Personas Afromexicanas":0,
-    "Consecutivo":199
+    "Consecutivo":86
     }
   },
   {
@@ -3008,7 +3043,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":17,
     "Personas Afromexicanas":0,
-    "Consecutivo":200
+    "Consecutivo":87
     }
   },
   {
@@ -3033,17 +3068,17 @@
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":19,
-    "Niñas":5,
+    "Cantidad de participantes":12,
+    "Niñas":3,
     "Niños":4,
-    "Mujeres Jóvenes":6,
-    "Hombres Jóvenes":4,
+    "Mujeres Jóvenes":3,
+    "Hombres Jóvenes":2,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":4,
     "Personas Afromexicanas":0,
-    "Consecutivo":201
+    "Consecutivo":88
     }
   },
   {
@@ -3078,7 +3113,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":202
+    "Consecutivo":89
     }
   },
   {
@@ -3113,7 +3148,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":203
+    "Consecutivo":90
     }
   },
   {
@@ -3138,17 +3173,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":21,
-    "Niñas":6,
-    "Niños":11,
-    "Mujeres Jóvenes":1,
-    "Hombres Jóvenes":3,
+    "Cantidad de participantes":26,
+    "Niñas":8,
+    "Niños":12,
+    "Mujeres Jóvenes":2,
+    "Hombres Jóvenes":4,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":204
+    "Consecutivo":91
     }
   },
   {
@@ -3183,7 +3218,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":205
+    "Consecutivo":92
     }
   },
   {
@@ -3208,17 +3243,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":29,
-    "Niñas":13,
-    "Niños":4,
-    "Mujeres Jóvenes":8,
-    "Hombres Jóvenes":4,
+    "Cantidad de participantes":40,
+    "Niñas":18,
+    "Niños":6,
+    "Mujeres Jóvenes":10,
+    "Hombres Jóvenes":6,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":206
+    "Consecutivo":93
     }
   },
   {
@@ -3253,7 +3288,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":207
+    "Consecutivo":94
     }
   },
   {
@@ -3278,17 +3313,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":23,
-    "Niñas":6,
-    "Niños":9,
+    "Cantidad de participantes":15,
+    "Niñas":5,
+    "Niños":7,
     "Mujeres Jóvenes":2,
     "Hombres Jóvenes":1,
-    "Mujeres adultas":3,
-    "Hombres adultos":2,
+    "Mujeres adultas":0,
+    "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":208
+    "Consecutivo":95
     }
   },
   {
@@ -3313,17 +3348,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":24,
+    "Cantidad de participantes":22,
     "Niñas":10,
     "Niños":8,
-    "Mujeres Jóvenes":3,
-    "Hombres Jóvenes":3,
+    "Mujeres Jóvenes":2,
+    "Hombres Jóvenes":2,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":209
+    "Consecutivo":96
     }
   },
   {
@@ -3358,7 +3393,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":210
+    "Consecutivo":97
     }
   },
   {
@@ -3384,16 +3419,16 @@
     "Atención a las causas":"No",
     "Número promotores":1,
     "Cantidad de participantes":23,
-    "Niñas":1,
+    "Niñas":2,
     "Niños":2,
-    "Mujeres Jóvenes":5,
+    "Mujeres Jóvenes":7,
     "Hombres Jóvenes":4,
-    "Mujeres adultas":7,
-    "Hombres adultos":4,
+    "Mujeres adultas":5,
+    "Hombres adultos":3,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":211
+    "Consecutivo":98
     }
   },
   {
@@ -3418,17 +3453,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":40,
+    "Cantidad de participantes":36,
     "Niñas":8,
-    "Niños":12,
-    "Mujeres Jóvenes":14,
+    "Niños":10,
+    "Mujeres Jóvenes":12,
     "Hombres Jóvenes":6,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":212
+    "Consecutivo":99
     }
   },
   {
@@ -3453,17 +3488,17 @@
     "Año de creación":"2024",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":30,
+    "Cantidad de participantes":25,
     "Niñas":6,
     "Niños":4,
-    "Mujeres Jóvenes":10,
-    "Hombres Jóvenes":10,
+    "Mujeres Jóvenes":6,
+    "Hombres Jóvenes":9,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":213
+    "Consecutivo":100
     }
   },
   {
@@ -3488,7 +3523,7 @@
     "Año de creación":"2025",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":40,
+    "Cantidad de participantes":28,
     "Niñas":24,
     "Niños":17,
     "Mujeres Jóvenes":10,
@@ -3498,7 +3533,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":214
+    "Consecutivo":101
     }
   },
   {
@@ -3523,17 +3558,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":30,
+    "Cantidad de participantes":31,
     "Niñas":13,
     "Niños":12,
-    "Mujeres Jóvenes":1,
+    "Mujeres Jóvenes":2,
     "Hombres Jóvenes":4,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":215
+    "Consecutivo":102
     }
   },
   {
@@ -3558,9 +3593,9 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":38,
+    "Cantidad de participantes":37,
     "Niñas":20,
-    "Niños":10,
+    "Niños":9,
     "Mujeres Jóvenes":4,
     "Hombres Jóvenes":3,
     "Mujeres adultas":1,
@@ -3568,7 +3603,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":1,
     "Personas Afromexicanas":0,
-    "Consecutivo":216
+    "Consecutivo":103
     }
   },
   {
@@ -3593,17 +3628,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":18,
-    "Niñas":7,
-    "Niños":7,
-    "Mujeres Jóvenes":2,
+    "Cantidad de participantes":30,
+    "Niñas":15,
+    "Niños":9,
+    "Mujeres Jóvenes":4,
     "Hombres Jóvenes":2,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":4,
     "Personas Afromexicanas":0,
-    "Consecutivo":217
+    "Consecutivo":104
     }
   },
   {
@@ -3638,7 +3673,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":218
+    "Consecutivo":105
     }
   },
   {
@@ -3663,17 +3698,17 @@
     "Año de creación":"2024",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":22,
-    "Niñas":16,
-    "Niños":6,
-    "Mujeres Jóvenes":0,
-    "Hombres Jóvenes":0,
+    "Cantidad de participantes":15,
+    "Niñas":6,
+    "Niños":5,
+    "Mujeres Jóvenes":2,
+    "Hombres Jóvenes":2,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":219
+    "Consecutivo":106
     }
   },
   {
@@ -3708,7 +3743,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":220
+    "Consecutivo":107
     }
   },
   {
@@ -3743,7 +3778,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":221
+    "Consecutivo":108
     }
   },
   {
@@ -3778,7 +3813,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":222
+    "Consecutivo":109
     }
   },
   {
@@ -3813,7 +3848,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":223
+    "Consecutivo":110
     }
   },
   {
@@ -3848,7 +3883,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":224
+    "Consecutivo":111
     }
   },
   {
@@ -3883,7 +3918,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":225
+    "Consecutivo":112
     }
   },
   {
@@ -3918,7 +3953,7 @@
     "Personas con Discapacidad":6,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":226
+    "Consecutivo":113
     }
   },
   {
@@ -3953,7 +3988,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":227
+    "Consecutivo":114
     }
   },
   {
@@ -3988,7 +4023,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":228
+    "Consecutivo":115
     }
   },
   {
@@ -4023,7 +4058,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":229
+    "Consecutivo":116
     }
   },
   {
@@ -4048,17 +4083,17 @@
     "Año de creación":"2022",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":21,
-    "Niñas":8,
-    "Niños":5,
+    "Cantidad de participantes":33,
+    "Niñas":15,
+    "Niños":9,
     "Mujeres Jóvenes":6,
-    "Hombres Jóvenes":2,
+    "Hombres Jóvenes":3,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":230
+    "Consecutivo":117
     }
   },
   {
@@ -4093,7 +4128,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":231
+    "Consecutivo":118
     }
   },
   {
@@ -4128,7 +4163,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":232
+    "Consecutivo":119
     }
   },
   {
@@ -4163,7 +4198,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":233
+    "Consecutivo":120
     }
   },
   {
@@ -4198,7 +4233,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":234
+    "Consecutivo":121
     }
   },
   {
@@ -4233,7 +4268,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":235
+    "Consecutivo":122
     }
   },
   {
@@ -4268,7 +4303,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":236
+    "Consecutivo":123
     }
   },
   {
@@ -4303,7 +4338,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":237
+    "Consecutivo":124
     }
   },
   {
@@ -4338,7 +4373,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":238
+    "Consecutivo":125
     }
   },
   {
@@ -4373,7 +4408,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":239
+    "Consecutivo":126
     }
   },
   {
@@ -4399,41 +4434,6 @@
     "Atención a las causas":"No",
     "Número promotores":2,
     "Cantidad de participantes":23,
-    "Niñas":12,
-    "Niños":8,
-    "Mujeres Jóvenes":0,
-    "Hombres Jóvenes":3,
-    "Mujeres adultas":null,
-    "Hombres adultos":null,
-    "Personas con Discapacidad":null,
-    "Personas Indígenas":null,
-    "Personas Afromexicanas":null,
-    "Consecutivo":240
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.4039241,32.66224393 ]
-    },
-    "properties": {
-    "Programa":"Semilleros Creativos",
-    "Región":"Norte",
-    "Área":"DVEM",
-    "Coordinación":"DGVC",
-    "Estado":"Baja California",
-    "Municipio":"Mexicali",
-    "Localidad":"Mexicali",
-    "Nombre del semillero":"Semillero Creativo de Pintura y Escultura en Mexicali, Baja California",
-    "Sedes":"Escuela Primaria Ricardo Flores Magón",
-    "Direcciones":"Av. Gral Genoveva de la O, S/N, colonia Flores Magón, Mexicali, Baja California, CP. 21220",
-    "Horarios":"Lunes a viernes de 13:30 a 15:30 h.",
-    "Rama Artística (DT)":"Artes Plásticas",
-    "Año de creación":"2023",
-    "Atención a las causas":"No",
-    "Número promotores":1,
-    "Cantidad de participantes":34,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4443,42 +4443,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":241
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.0683001,32.4057521 ]
-    },
-    "properties": {
-    "Programa":"Semilleros Creativos",
-    "Región":"Norte",
-    "Área":"DVEM",
-    "Coordinación":"DGVC",
-    "Estado":"Baja California",
-    "Municipio":"Playas de Rosarito",
-    "Localidad":"Playas de Rosarito",
-    "Nombre del semillero":"Semillero Creativo de Teatro en Playas de Rosarito, Baja California",
-    "Sedes":"Sede 1: Centro Cultural La Mina\nSede 2: Centro Comunitario Rancho 40",
-    "Direcciones":"Sede 1: Calle Mina del Valle, S/N, Fracc. La Mina, Playas de Rosarito, Baja California, CP. 22705 \nSede 2: Calle Las Flores y Benito Juárez s/n, Fraccionamiento Jardines del Mar, Playas de Rosarito Baja California, CP. 22740.",
-    "Horarios":"Sede1: Lunes, miércoles y jueves de 13 a 17 h.\nSede 2: Martes y viernes 13 a 17 h.",
-    "Rama Artística (DT)":"Artes Escénicas",
-    "Año de creación":"2019",
-    "Atención a las causas":"No",
-    "Número promotores":2,
-    "Cantidad de participantes":30,
-    "Niñas":null,
-    "Niños":null,
-    "Mujeres Jóvenes":null,
-    "Hombres Jóvenes":null,
-    "Mujeres adultas":null,
-    "Hombres adultos":null,
-    "Personas con Discapacidad":null,
-    "Personas Indígenas":null,
-    "Personas Afromexicanas":null,
-    "Consecutivo":242
+    "Consecutivo":127
     }
   },
   {
@@ -4503,7 +4468,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":23,
+    "Cantidad de participantes":36,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4513,42 +4478,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":null,
     "Personas Afromexicanas":0,
-    "Consecutivo":243
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.0065654,32.54356111 ]
-    },
-    "properties": {
-    "Programa":"Semilleros Creativos",
-    "Región":"Norte",
-    "Área":"DVEM",
-    "Coordinación":"DGVC",
-    "Estado":"Baja California",
-    "Municipio":"Tijuana",
-    "Localidad":"Tijuana",
-    "Nombre del semillero":"Semillero Creativo de Danza en Tijuana, Baja California",
-    "Sedes":" Espacio Migrante",
-    "Direcciones":"Avenida Miguel Negrete, #8350, Zona Centro Tijuana, Baja California, CP. 22010",
-    "Horarios":"Martes a viernes 14 a 18 h.\nSábado 10 a 13 h.",
-    "Rama Artística (DT)":"Artes Escénicas",
-    "Año de creación":"2021",
-    "Atención a las causas":"Sí",
-    "Número promotores":1,
-    "Cantidad de participantes":13,
-    "Niñas":null,
-    "Niños":null,
-    "Mujeres Jóvenes":null,
-    "Hombres Jóvenes":null,
-    "Mujeres adultas":null,
-    "Hombres adultos":null,
-    "Personas con Discapacidad":0,
-    "Personas Indígenas":null,
-    "Personas Afromexicanas":0,
-    "Consecutivo":244
+    "Consecutivo":128
     }
   },
   {
@@ -4583,7 +4513,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":null,
     "Personas Afromexicanas":0,
-    "Consecutivo":245
+    "Consecutivo":129
     }
   },
   {
@@ -4608,7 +4538,7 @@
     "Año de creación":"2021",
     "Atención a las causas":"Sí",
     "Número promotores":1,
-    "Cantidad de participantes":9,
+    "Cantidad de participantes":5,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4618,14 +4548,14 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":null,
     "Personas Afromexicanas":0,
-    "Consecutivo":246
+    "Consecutivo":130
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -116.8983202,32.49102989 ]
+       "coordinates":  [ -116.9345499,32.37721744 ]
     },
     "properties": {
     "Programa":"Semilleros Creativos",
@@ -4635,25 +4565,25 @@
     "Estado":"Baja California",
     "Municipio":"Tijuana",
     "Localidad":"Tijuana",
-    "Nombre del semillero":"Semillero Creativo de Teatro y Títeres en Tijuana, Baja California",
-    "Sedes":"Centro Integrador para el Migrante Carmen Serdán",
-    "Direcciones":"Privada José López Portillo, #02, Parque Industrial Presidentes, colonia Infonavit Presidentes, Tijuana, Baja California, CP. 22215",
-    "Horarios":"Lunes de 14 a 18 h. martes de 18 a 20 h. y miércoles de 10 a 14 h.",
+    "Nombre del semillero":"Semillero Creativo de Teatro en Tijuana, Baja California",
+    "Sedes":"Sede 1: Centro de Desarrollo Comunitario Natura \nSede 2: Escuela Primaria Frida Kahlo",
+    "Direcciones":"Sede 1:Ave. Natura s/n Fracc. Natura, Sección Bosques, 22165 Tijuana, B.C.\nSede 2: Avenida Bosques de Natura, Natura Sección Bosques, 22165 Tijuana, B.C",
+    "Horarios":"(en blanco)",
     "Rama Artística (DT)":"Artes Escénicas",
-    "Año de creación":"2021",
+    "Año de creación":"2019",
     "Atención a las causas":"Sí",
-    "Número promotores":1,
-    "Cantidad de participantes":20,
+    "Número promotores":2,
+    "Cantidad de participantes":16,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
     "Hombres Jóvenes":null,
     "Mujeres adultas":null,
     "Hombres adultos":null,
-    "Personas con Discapacidad":0,
+    "Personas con Discapacidad":null,
     "Personas Indígenas":null,
-    "Personas Afromexicanas":0,
-    "Consecutivo":247
+    "Personas Afromexicanas":null,
+    "Consecutivo":131
     }
   },
   {
@@ -4678,7 +4608,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":12,
+    "Cantidad de participantes":17,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4688,7 +4618,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":248
+    "Consecutivo":132
     }
   },
   {
@@ -4713,7 +4643,7 @@
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":15,
+    "Cantidad de participantes":16,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4723,7 +4653,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":249
+    "Consecutivo":133
     }
   },
   {
@@ -4748,7 +4678,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":34,
+    "Cantidad de participantes":25,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4758,7 +4688,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":250
+    "Consecutivo":134
     }
   },
   {
@@ -4783,7 +4713,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":60,
+    "Cantidad de participantes":66,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4793,7 +4723,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":251
+    "Consecutivo":135
     }
   },
   {
@@ -4818,7 +4748,7 @@
     "Año de creación":"2022",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":12,
+    "Cantidad de participantes":16,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4828,7 +4758,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":252
+    "Consecutivo":136
     }
   },
   {
@@ -4846,14 +4776,14 @@
     "Municipio":"Juárez",
     "Localidad":"Juárez",
     "Nombre del semillero":"Semillero Creativo de Teatro y Circo en Juárez, Chihuahua",
-    "Sedes":"Sede 1. DIF Estatal Casa del Menor Migrante \nSede 2. Centro Comunitario Fovissste Chamizalla",
-    "Direcciones":"Sede 1. 20 de Noviembre, #2942, Partido Romero, Juárez, Chihuahua, CP. 32330.\nSede 2. Calle Río Eufrates s/n, Colonia Chamizal I y II, Juárez, Chihuahua. C.P 32310",
-    "Horarios":"Sede 1. Martes 15 a 18 h, miércoles 10 a 13 h, viernes de 9 a 13 h.\nSede 2. Lunes y miércoles 15 a 18 h.",
+    "Sedes":"Sede 1. Centro Comunitario Fovissste Chamizalla\nSede 2. Espacio de paz Riveras del Bravo",
+    "Direcciones":"Sede 1: Calle Río Eufrates s/n, Colonia Chamizal I y II, Juárez, Chihuahua. C.P 32310\nSede 2: Riveras de San Blás 402, Riveras del Bravo etapa 7 , Juárez, Chihuahua.",
+    "Horarios":" Lunes y miércoles 15 a 18 h.",
     "Rama Artística (DT)":"Artes Escénicas",
     "Año de creación":"2022",
     "Atención a las causas":"Sí",
     "Número promotores":2,
-    "Cantidad de participantes":28,
+    "Cantidad de participantes":30,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4863,7 +4793,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":253
+    "Consecutivo":137
     }
   },
   {
@@ -4888,7 +4818,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":36,
+    "Cantidad de participantes":35,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4898,7 +4828,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":254
+    "Consecutivo":138
     }
   },
   {
@@ -4923,7 +4853,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"Sí",
     "Número promotores":2,
-    "Cantidad de participantes":40,
+    "Cantidad de participantes":44,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4933,7 +4863,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":255
+    "Consecutivo":139
     }
   },
   {
@@ -4958,7 +4888,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":25,
+    "Cantidad de participantes":16,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -4968,7 +4898,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":256
+    "Consecutivo":140
     }
   },
   {
@@ -4993,7 +4923,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":18,
+    "Cantidad de participantes":27,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5003,42 +4933,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":257
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -108.3263276,26.7087883 ]
-    },
-    "properties": {
-    "Programa":"Semilleros Creativos",
-    "Región":"Norte",
-    "Área":"DVEM",
-    "Coordinación":"DGVC",
-    "Estado":"Sinaloa",
-    "Municipio":"Choix",
-    "Localidad":"Choix",
-    "Nombre del semillero":"Semillero Creativo de Literatura y Escritura Creativa en Choix, Sinaloa",
-    "Sedes":"Escuela Secundaria Gral. Francisco R. Serrano",
-    "Direcciones":"Blvrd. Vicente Guerero, #26, colonia Conchas, Choix, Sinaloa, CP. 81706",
-    "Horarios":"Lunes a viernes de 15 a 19 h.",
-    "Rama Artística (DT)":"Creación Literaria",
-    "Año de creación":"2019",
-    "Atención a las causas":"No",
-    "Número promotores":1,
-    "Cantidad de participantes":54,
-    "Niñas":null,
-    "Niños":null,
-    "Mujeres Jóvenes":null,
-    "Hombres Jóvenes":null,
-    "Mujeres adultas":null,
-    "Hombres adultos":null,
-    "Personas con Discapacidad":null,
-    "Personas Indígenas":null,
-    "Personas Afromexicanas":null,
-    "Consecutivo":258
+    "Consecutivo":141
     }
   },
   {
@@ -5063,7 +4958,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":25,
+    "Cantidad de participantes":78,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5073,7 +4968,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":259
+    "Consecutivo":142
     }
   },
   {
@@ -5108,14 +5003,14 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":260
+    "Consecutivo":143
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -108.6200651,26.4168762 ]
+       "coordinates":  [ -108.6168824,26.4128965 ]
     },
     "properties": {
     "Programa":"Semilleros Creativos",
@@ -5126,14 +5021,14 @@
     "Municipio":"El Fuerte",
     "Localidad":"El Fuerte",
     "Nombre del semillero":"Semillero Creativo de Literatura y Escritura Creativa en el Fuerte, Sinaloa",
-    "Sedes":"Jardín De Niños Genaro Estrada",
-    "Direcciones":"Calle 6 de Septiembre, # 214, colonia Centro Histórico, El Fuerte, Sinaloa, CP. 81820",
+    "Sedes":"Escuela Secundaria Ignacio Ramírez",
+    "Direcciones":"Calle Obregon #220, col Centro, El Fuerte,, Sinaloa, CP. 81820",
     "Horarios":"Lunes a viernes de 15 a 19 h.",
     "Rama Artística (DT)":"Creación Literaria",
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":28,
+    "Cantidad de participantes":12,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5143,7 +5038,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":261
+    "Consecutivo":144
     }
   },
   {
@@ -5168,7 +5063,7 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":30,
+    "Cantidad de participantes":13,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5178,7 +5073,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":262
+    "Consecutivo":145
     }
   },
   {
@@ -5203,7 +5098,7 @@
     "Año de creación":"2022",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":15,
+    "Cantidad de participantes":11,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5213,7 +5108,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":263
+    "Consecutivo":146
     }
   },
   {
@@ -5233,12 +5128,12 @@
     "Nombre del semillero":"Semillero Creativo de Literatura y Escritura Creativa en Cultura Yaqui en Bácum, Sonora",
     "Sedes":"Albergue General Luis Matuz",
     "Direcciones":"Domicilio conocido, localidad Loma de Bácum, Sonora, CP. 85276.",
-    "Horarios":"Lunes a viernes de 15:30 a 18:30 h.",
+    "Horarios":"Lunes a viernes de 15:00 a 18:30 h.",
     "Rama Artística (DT)":"Creación Literaria",
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":27,
+    "Cantidad de participantes":32,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5248,7 +5143,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":264
+    "Consecutivo":147
     }
   },
   {
@@ -5268,12 +5163,12 @@
     "Nombre del semillero":"Semillero Creativo de Literatura y Escritura Creativa en Cajeme, Sonora",
     "Sedes":"Sede 1: Centro de Promoción Social del Valle del Yaqui A.C. (PROVAY)\nSede 2: Albergue Infantil Itom Kary",
     "Direcciones":"Sede 1: Calle Esmeralda #1822 Oriente, colonia Valle Verde, Ciudad Obregón, Sonora.  C. P. 85097\nSede 2: Jardines del Lago, #2601, Ciudad Obregón, Sonora, CP 85180",
-    "Horarios":"Sede 1: Lunes, martes y miércoles  15:30 a 17 :30 h y sábado 9 a 11:30 h.\nSede 2: Jueves y viernes 15:30 a 18 h.",
+    "Horarios":"Sede 1: jueves y viernes  15:30 a 18:30 y sábados de  9 a 12 h.\nSede 2. lunes martes y miércoles 15 a 18:30 h",
     "Rama Artística (DT)":"Creación Literaria",
     "Año de creación":"2023",
     "Atención a las causas":"Sí",
     "Número promotores":2,
-    "Cantidad de participantes":14,
+    "Cantidad de participantes":78,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5283,7 +5178,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":265
+    "Consecutivo":148
     }
   },
   {
@@ -5303,12 +5198,12 @@
     "Nombre del semillero":"Semillero Creativo de Radio y Producción Audiovisual en Cultura Yaqui en Cajeme, Sonora",
     "Sedes":"Biblioteca Pública Loma de Guamuchil",
     "Direcciones":"Domicilio conocido, Loma de Guamuchil, Cajeme, Sonora. C.P. 85217",
-    "Horarios":"Lunes a viernes de 15 a 18 h.",
+    "Horarios":"Lunes a viernes de 14 a 18 h.",
     "Rama Artística (DT)":"Radio",
     "Año de creación":"2023",
     "Atención a las causas":"Sí",
     "Número promotores":1,
-    "Cantidad de participantes":5,
+    "Cantidad de participantes":9,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5318,7 +5213,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":266
+    "Consecutivo":149
     }
   },
   {
@@ -5338,12 +5233,12 @@
     "Nombre del semillero":"Semillero Creativo de Danza Urbana en Empalme, Sonora",
     "Sedes":"Academia de Danza Y-studio",
     "Direcciones":"Lote 6 manzana 7, Calle 16 y Americas, Col.Libertad, Empalme, Sonora, CP. 85370",
-    "Horarios":"Lunes a jueves de 15 a 18 h y sábado de 11 a 13 h.",
+    "Horarios":"Lunes a viernes de 16 a 19 h. y sábado de 11 a 13 h",
     "Rama Artística (DT)":"Artes Escénicas",
     "Año de creación":"2020",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":23,
+    "Cantidad de participantes":16,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5353,7 +5248,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":267
+    "Consecutivo":150
     }
   },
   {
@@ -5373,12 +5268,12 @@
     "Nombre del semillero":"Semillero Creativo de Danza Regional en Etchojoa, Sonora",
     "Sedes":"Escuela Primaria \"José María Morelos y Pavón \"",
     "Direcciones":"Calle 18 de Marzo, entre Calle 5 de Febrero y Calle Lázaro Cárdenas del Rio, Etchojoa, Sonora, CP. 85287",
-    "Horarios":"Lunes a viernes de 16 a 19 h.",
+    "Horarios":"Lunes a viernes de 14 a 20h.",
     "Rama Artística (DT)":"Artes Escénicas",
     "Año de creación":"2020",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":17,
+    "Cantidad de participantes":18,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5388,7 +5283,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":268
+    "Consecutivo":151
     }
   },
   {
@@ -5413,7 +5308,7 @@
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":29,
+    "Cantidad de participantes":18,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5423,7 +5318,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":269
+    "Consecutivo":152
     }
   },
   {
@@ -5448,7 +5343,7 @@
     "Año de creación":"2020",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":20,
+    "Cantidad de participantes":23,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5458,7 +5353,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":270
+    "Consecutivo":153
     }
   },
   {
@@ -5478,12 +5373,12 @@
     "Nombre del semillero":"Semillero Creativo de Teatro y Títeres en Lengua Yaqui en Huiribis, en Guaymas, Sonora",
     "Sedes":"Centro Asistencial de Desarrollo Infantil (CADI) Petra Amarillas",
     "Direcciones":"Domicilio conocido Huiribis, Guaymas, Sonora ,CP 85513",
-    "Horarios":"Martes, miércoles y jueves de 14 a 17 h. y Sábado de 10 a 13 h.",
+    "Horarios":"Martes, miércoles y jueves de 14 a 16 h. y Sábado de 10 a 15 h.",
     "Rama Artística (DT)":"Artes Escénicas",
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":20,
+    "Cantidad de participantes":21,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5493,7 +5388,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":271
+    "Consecutivo":154
     }
   },
   {
@@ -5513,12 +5408,12 @@
     "Nombre del semillero":"Semillero Creativo de Danza Regional en Pitahaya, en Guaymas, Sonora",
     "Sedes":"Escuela Primaria General Ignacio Mori",
     "Direcciones":"Loc. Pitahaya S/N, Guaymas, Sonora, CP. 85513",
-    "Horarios":"Lunes a viernes de 15 a 18 h.",
+    "Horarios":"Lunes a viernes de 14 a 18 h.",
     "Rama Artística (DT)":"Artes Escénicas",
     "Año de creación":"2024",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":23,
+    "Cantidad de participantes":38,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5528,7 +5423,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":272
+    "Consecutivo":155
     }
   },
   {
@@ -5548,12 +5443,12 @@
     "Nombre del semillero":"Semillero Creativo de Teatro en Lengua Yaqui en Pótam, en Guaymas, Sonora",
     "Sedes":"Centro Asistencial de Desarrollo Infantil CADI Nueva Creación en el Barrio Santemea",
     "Direcciones":"Potam, Barrio Santemea, S/N ,Guaymas, Sonora, CP 85513",
-    "Horarios":"Miércoles, jueves y viernes de 15 a 18:30 h y sábado de 9 a15 h.",
+    "Horarios":"Miércoles, jueves y viernes de 14 a 18:30 h y sábado de 9 a 15 h.",
     "Rama Artística (DT)":"Artes Escénicas",
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":33,
+    "Cantidad de participantes":36,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5563,7 +5458,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":273
+    "Consecutivo":156
     }
   },
   {
@@ -5583,12 +5478,12 @@
     "Nombre del semillero":"Semillero Creativo de Bordado y Lengua Yaqui en Rahum, en Guaymas, Sonora",
     "Sedes":"Centro de Atención de la Mujer Indígena (CAMI)",
     "Direcciones":"Domicilio Conocido Rahum, Guaymas, Sonora, CP. 85513",
-    "Horarios":"Lunes a jueves de 14 a 18 h.",
+    "Horarios":"Lunes a viernes de 14 a 18 h.",
     "Rama Artística (DT)":"Artesanía",
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":25,
+    "Cantidad de participantes":26,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5598,7 +5493,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":274
+    "Consecutivo":157
     }
   },
   {
@@ -5618,12 +5513,12 @@
     "Nombre del semillero":"Semillero Creativo de Danza y Música (Tórim), en Guaymas, Sonora",
     "Sedes":"Centro Asistencial de Desarrollo Infantil CAD Ilichoky",
     "Direcciones":"Domicilio conocido Tórim S/N, Guaymas, Sonora. CP 85513",
-    "Horarios":"Lunes a viernes 15 a 18 hrs",
+    "Horarios":"Lunes a viernes 15 a 18 hrs y sábados de 10 a 15 hr.",
     "Rama Artística (DT)":"Saberes tradicionales",
     "Año de creación":"2023",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":46,
+    "Cantidad de participantes":32,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5633,7 +5528,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":275
+    "Consecutivo":158
     }
   },
   {
@@ -5653,7 +5548,7 @@
     "Nombre del semillero":"Semillero Creativo de Dibujo y Pintura en Cultura Yaqui en Guaymas, Sonora",
     "Sedes":"Biblioteca Pública Benito Juárez",
     "Direcciones":"Severiano Puertas Quintero, S/N, loc. Vicam, Guaymas, Sonora C.P 85510",
-    "Horarios":"Lunes y viernes de 15 a 18 h y Sábado y domingo de 10 a 15 h.",
+    "Horarios":"Lunes a viernes de 15 a 18:30 h",
     "Rama Artística (DT)":"Saberes tradicionales",
     "Año de creación":"2023",
     "Atención a las causas":"No",
@@ -5668,7 +5563,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":276
+    "Consecutivo":159
     }
   },
   {
@@ -5688,12 +5583,12 @@
     "Nombre del semillero":"Semillero Creativo de Música y Danza -Cultura Yaqui (Vícam), en Guaymas, Sonora",
     "Sedes":"Biblioteca Pública Benito Juárez",
     "Direcciones":"Severiano Puertas Quintero, S/N, loc. Vicam, Guaymas, Sonora C.P 85510",
-    "Horarios":"Martes y viernes de 15 a 18 h. y sábado y domingo de 9 a 15 h.",
+    "Horarios":"Martes, jueves y viernes de 15 a 19 h. y sábados de 9 a 15 h.",
     "Rama Artística (DT)":"Saberes tradicionales",
     "Año de creación":"2020",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":30,
+    "Cantidad de participantes":35,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5703,7 +5598,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":277
+    "Consecutivo":160
     }
   },
   {
@@ -5728,7 +5623,7 @@
     "Año de creación":"2022",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":18,
+    "Cantidad de participantes":15,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5738,7 +5633,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":278
+    "Consecutivo":161
     }
   },
   {
@@ -5763,7 +5658,7 @@
     "Año de creación":"2020",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":37,
+    "Cantidad de participantes":90,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5773,7 +5668,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":279
+    "Consecutivo":162
     }
   },
   {
@@ -5798,7 +5693,7 @@
     "Año de creación":"2020",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":51,
+    "Cantidad de participantes":49,
     "Niñas":null,
     "Niños":null,
     "Mujeres Jóvenes":null,
@@ -5808,7 +5703,7 @@
     "Personas con Discapacidad":null,
     "Personas Indígenas":null,
     "Personas Afromexicanas":null,
-    "Consecutivo":280
+    "Consecutivo":163
     }
   },
   {
@@ -5843,7 +5738,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":281
+    "Consecutivo":164
     }
   },
   {
@@ -5878,7 +5773,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":282
+    "Consecutivo":165
     }
   },
   {
@@ -5913,7 +5808,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":283
+    "Consecutivo":166
     }
   },
   {
@@ -5948,7 +5843,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":284
+    "Consecutivo":167
     }
   },
   {
@@ -5983,7 +5878,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":285
+    "Consecutivo":168
     }
   },
   {
@@ -6018,7 +5913,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":286
+    "Consecutivo":169
     }
   },
   {
@@ -6053,7 +5948,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":287
+    "Consecutivo":170
     }
   },
   {
@@ -6088,7 +5983,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":288
+    "Consecutivo":171
     }
   },
   {
@@ -6123,7 +6018,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":289
+    "Consecutivo":172
     }
   },
   {
@@ -6158,7 +6053,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":290
+    "Consecutivo":173
     }
   },
   {
@@ -6193,7 +6088,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":291
+    "Consecutivo":174
     }
   },
   {
@@ -6228,7 +6123,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":292
+    "Consecutivo":175
     }
   },
   {
@@ -6263,7 +6158,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":293
+    "Consecutivo":176
     }
   },
   {
@@ -6298,7 +6193,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":294
+    "Consecutivo":177
     }
   },
   {
@@ -6333,7 +6228,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":295
+    "Consecutivo":178
     }
   },
   {
@@ -6368,7 +6263,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":296
+    "Consecutivo":179
     }
   },
   {
@@ -6403,7 +6298,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":297
+    "Consecutivo":180
     }
   },
   {
@@ -6438,7 +6333,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":298
+    "Consecutivo":181
     }
   },
   {
@@ -6473,7 +6368,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":299
+    "Consecutivo":182
     }
   },
   {
@@ -6508,7 +6403,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":300
+    "Consecutivo":183
     }
   },
   {
@@ -6543,7 +6438,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":301
+    "Consecutivo":184
     }
   },
   {
@@ -6578,7 +6473,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":302
+    "Consecutivo":185
     }
   },
   {
@@ -6613,7 +6508,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":303
+    "Consecutivo":186
     }
   },
   {
@@ -6648,7 +6543,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":304
+    "Consecutivo":187
     }
   },
   {
@@ -6683,7 +6578,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":305
+    "Consecutivo":188
     }
   },
   {
@@ -6718,7 +6613,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":306
+    "Consecutivo":189
     }
   },
   {
@@ -6753,7 +6648,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":307
+    "Consecutivo":190
     }
   },
   {
@@ -6788,7 +6683,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":308
+    "Consecutivo":191
     }
   },
   {
@@ -6823,7 +6718,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":309
+    "Consecutivo":192
     }
   },
   {
@@ -6858,7 +6753,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":310
+    "Consecutivo":193
     }
   },
   {
@@ -6893,7 +6788,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":311
+    "Consecutivo":194
     }
   },
   {
@@ -6928,7 +6823,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":312
+    "Consecutivo":195
     }
   },
   {
@@ -6963,7 +6858,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":313
+    "Consecutivo":196
     }
   },
   {
@@ -6998,7 +6893,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":314
+    "Consecutivo":197
     }
   },
   {
@@ -7033,7 +6928,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":315
+    "Consecutivo":198
     }
   },
   {
@@ -7068,7 +6963,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":316
+    "Consecutivo":199
     }
   },
   {
@@ -7103,7 +6998,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":317
+    "Consecutivo":200
     }
   },
   {
@@ -7138,7 +7033,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":318
+    "Consecutivo":201
     }
   },
   {
@@ -7173,7 +7068,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":5,
     "Personas Afromexicanas":0,
-    "Consecutivo":319
+    "Consecutivo":202
     }
   },
   {
@@ -7208,7 +7103,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":1,
-    "Consecutivo":320
+    "Consecutivo":203
     }
   },
   {
@@ -7243,7 +7138,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":2,
     "Personas Afromexicanas":0,
-    "Consecutivo":321
+    "Consecutivo":204
     }
   },
   {
@@ -7278,7 +7173,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":322
+    "Consecutivo":205
     }
   },
   {
@@ -7313,7 +7208,7 @@
     "Personas con Discapacidad":7,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":323
+    "Consecutivo":206
     }
   },
   {
@@ -7348,7 +7243,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":324
+    "Consecutivo":207
     }
   },
   {
@@ -7383,7 +7278,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":6,
     "Personas Afromexicanas":0,
-    "Consecutivo":325
+    "Consecutivo":208
     }
   },
   {
@@ -7418,7 +7313,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":326
+    "Consecutivo":209
     }
   },
   {
@@ -7453,7 +7348,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":327
+    "Consecutivo":210
     }
   },
   {
@@ -7488,7 +7383,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":328
+    "Consecutivo":211
     }
   },
   {
@@ -7523,7 +7418,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":329
+    "Consecutivo":212
     }
   },
   {
@@ -7558,7 +7453,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":330
+    "Consecutivo":213
     }
   },
   {
@@ -7593,7 +7488,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":331
+    "Consecutivo":214
     }
   },
   {
@@ -7618,17 +7513,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":50,
-    "Niñas":31,
-    "Niños":19,
-    "Mujeres Jóvenes":0,
-    "Hombres Jóvenes":0,
-    "Mujeres adultas":0,
+    "Cantidad de participantes":53,
+    "Niñas":17,
+    "Niños":23,
+    "Mujeres Jóvenes":10,
+    "Hombres Jóvenes":2,
+    "Mujeres adultas":1,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":332
+    "Consecutivo":215
     }
   },
   {
@@ -7663,7 +7558,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":333
+    "Consecutivo":216
     }
   },
   {
@@ -7698,7 +7593,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":334
+    "Consecutivo":217
     }
   },
   {
@@ -7733,7 +7628,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":335
+    "Consecutivo":218
     }
   },
   {
@@ -7768,7 +7663,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":336
+    "Consecutivo":219
     }
   },
   {
@@ -7803,7 +7698,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":337
+    "Consecutivo":220
     }
   },
   {
@@ -7838,7 +7733,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":26,
     "Personas Afromexicanas":0,
-    "Consecutivo":338
+    "Consecutivo":221
     }
   },
   {
@@ -7873,7 +7768,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":339
+    "Consecutivo":222
     }
   },
   {
@@ -7908,7 +7803,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":340
+    "Consecutivo":223
     }
   },
   {
@@ -7943,7 +7838,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":341
+    "Consecutivo":224
     }
   },
   {
@@ -7978,7 +7873,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":342
+    "Consecutivo":225
     }
   },
   {
@@ -8013,7 +7908,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":24,
     "Personas Afromexicanas":0,
-    "Consecutivo":343
+    "Consecutivo":226
     }
   },
   {
@@ -8048,7 +7943,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":344
+    "Consecutivo":227
     }
   },
   {
@@ -8083,7 +7978,7 @@
     "Personas con Discapacidad":6,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":345
+    "Consecutivo":228
     }
   },
   {
@@ -8118,7 +8013,7 @@
     "Personas con Discapacidad":4,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":346
+    "Consecutivo":229
     }
   },
   {
@@ -8153,7 +8048,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":347
+    "Consecutivo":230
     }
   },
   {
@@ -8188,7 +8083,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":348
+    "Consecutivo":231
     }
   },
   {
@@ -8223,7 +8118,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":349
+    "Consecutivo":232
     }
   },
   {
@@ -8258,7 +8153,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":2,
-    "Consecutivo":350
+    "Consecutivo":233
     }
   },
   {
@@ -8293,7 +8188,42 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":20,
     "Personas Afromexicanas":0,
-    "Consecutivo":351
+    "Consecutivo":234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.6842051,19.2317836 ]
+    },
+    "properties": {
+    "Programa":"Semilleros de Música",
+    "Región":"Occidente",
+    "Área":"SNFM",
+    "Coordinación":"SNFM",
+    "Estado":"Colima",
+    "Municipio":"Colima",
+    "Localidad":"Colima",
+    "Nombre del semillero":"Semillero Mariachi Tradicional Colima",
+    "Sedes":"Canchas de fútbol",
+    "Direcciones":"Canchas de fútbol C. 25 de julio 154, Ignacio Zaragoza, C.P. 28048 Colima, Col.",
+    "Horarios":"Lunes a miércoles de 10:00 a 12:00 h y de 14:00 a 16:00 h",
+    "Rama Artística (DT)":"Formación musical",
+    "Año de creación":"2025",
+    "Atención a las causas":"Sí",
+    "Número promotores":null,
+    "Cantidad de participantes":7,
+    "Niñas":1,
+    "Niños":1,
+    "Mujeres Jóvenes":1,
+    "Hombres Jóvenes":1,
+    "Mujeres adultas":3,
+    "Hombres adultos":0,
+    "Personas con Discapacidad":0,
+    "Personas Indígenas":0,
+    "Personas Afromexicanas":0,
+    "Consecutivo":235
     }
   },
   {
@@ -8328,7 +8258,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":352
+    "Consecutivo":236
     }
   },
   {
@@ -8363,7 +8293,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":353
+    "Consecutivo":237
     }
   },
   {
@@ -8398,7 +8328,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":354
+    "Consecutivo":238
     }
   },
   {
@@ -8433,7 +8363,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":355
+    "Consecutivo":239
     }
   },
   {
@@ -8468,7 +8398,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":356
+    "Consecutivo":240
     }
   },
   {
@@ -8503,7 +8433,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":357
+    "Consecutivo":241
     }
   },
   {
@@ -8538,7 +8468,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":358
+    "Consecutivo":242
     }
   },
   {
@@ -8573,7 +8503,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":359
+    "Consecutivo":243
     }
   },
   {
@@ -8608,7 +8538,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":360
+    "Consecutivo":244
     }
   },
   {
@@ -8643,7 +8573,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":361
+    "Consecutivo":245
     }
   },
   {
@@ -8678,7 +8608,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":362
+    "Consecutivo":246
     }
   },
   {
@@ -8713,7 +8643,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":363
+    "Consecutivo":247
     }
   },
   {
@@ -8748,7 +8678,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":364
+    "Consecutivo":248
     }
   },
   {
@@ -8783,7 +8713,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":365
+    "Consecutivo":249
     }
   },
   {
@@ -8818,7 +8748,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":366
+    "Consecutivo":250
     }
   },
   {
@@ -8853,7 +8783,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":367
+    "Consecutivo":251
     }
   },
   {
@@ -8888,7 +8818,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":368
+    "Consecutivo":252
     }
   },
   {
@@ -8923,7 +8853,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":369
+    "Consecutivo":253
     }
   },
   {
@@ -8948,17 +8878,17 @@
     "Año de creación":"2022",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":22,
-    "Niñas":10,
+    "Cantidad de participantes":29,
+    "Niñas":16,
     "Niños":7,
-    "Mujeres Jóvenes":2,
+    "Mujeres Jóvenes":3,
     "Hombres Jóvenes":3,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":370
+    "Consecutivo":254
     }
   },
   {
@@ -8993,7 +8923,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":371
+    "Consecutivo":255
     }
   },
   {
@@ -9028,7 +8958,7 @@
     "Personas con Discapacidad":2,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":372
+    "Consecutivo":256
     }
   },
   {
@@ -9063,7 +8993,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":25,
     "Personas Afromexicanas":0,
-    "Consecutivo":373
+    "Consecutivo":257
     }
   },
   {
@@ -9088,17 +9018,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":29,
-    "Niñas":20,
-    "Niños":6,
-    "Mujeres Jóvenes":2,
-    "Hombres Jóvenes":1,
+    "Cantidad de participantes":33,
+    "Niñas":10,
+    "Niños":2,
+    "Mujeres Jóvenes":17,
+    "Hombres Jóvenes":4,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":374
+    "Consecutivo":258
     }
   },
   {
@@ -9133,7 +9063,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":375
+    "Consecutivo":259
     }
   },
   {
@@ -9158,17 +9088,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":43,
-    "Niñas":26,
-    "Niños":8,
-    "Mujeres Jóvenes":4,
-    "Hombres Jóvenes":5,
+    "Cantidad de participantes":44,
+    "Niñas":17,
+    "Niños":9,
+    "Mujeres Jóvenes":10,
+    "Hombres Jóvenes":8,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":376
+    "Consecutivo":260
     }
   },
   {
@@ -9203,7 +9133,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":377
+    "Consecutivo":261
     }
   },
   {
@@ -9238,7 +9168,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":31,
     "Personas Afromexicanas":0,
-    "Consecutivo":378
+    "Consecutivo":262
     }
   },
   {
@@ -9273,7 +9203,7 @@
     "Personas con Discapacidad":5,
     "Personas Indígenas":16,
     "Personas Afromexicanas":0,
-    "Consecutivo":379
+    "Consecutivo":263
     }
   },
   {
@@ -9308,7 +9238,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":3,
     "Personas Afromexicanas":0,
-    "Consecutivo":380
+    "Consecutivo":264
     }
   },
   {
@@ -9333,52 +9263,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":2,
-    "Cantidad de participantes":27,
+    "Cantidad de participantes":28,
     "Niñas":0,
-    "Niños":2,
-    "Mujeres Jóvenes":14,
-    "Hombres Jóvenes":11,
+    "Niños":0,
+    "Mujeres Jóvenes":18,
+    "Hombres Jóvenes":10,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
-    "Personas Indígenas":27,
+    "Personas Indígenas":28,
     "Personas Afromexicanas":0,
-    "Consecutivo":381
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.13,16.19 ]
-    },
-    "properties": {
-    "Programa":"Semilleros Creativos",
-    "Región":"Sur",
-    "Área":"PROY ESPECIALES",
-    "Coordinación":"DGVC",
-    "Estado":"Oaxaca",
-    "Municipio":" Santo Domingo Tehuantepec",
-    "Localidad":" Santo Domingo Tehuantepec",
-    "Nombre del semillero":"Semillero Creativo de Escritura Creativa en Lengua Zapoteca en Santo Domingo Tehuantepec, Oaxaca",
-    "Sedes":"Oficinas de la Casa de Cultura de Tehuantepec",
-    "Direcciones":"Calle Josefa Ortiz de Domínguez, Santo Domingo Tehuantepec, Oaxaca, C.P. 70760.",
-    "Horarios":"Lunes a viernes, de 15:00 a 19:00 h",
-    "Rama Artística (DT)":"Creación Literaria",
-    "Año de creación":"2025",
-    "Atención a las causas":"No",
-    "Número promotores":1,
-    "Cantidad de participantes":12,
-    "Niñas":6,
-    "Niños":6,
-    "Mujeres Jóvenes":null,
-    "Hombres Jóvenes":null,
-    "Mujeres adultas":null,
-    "Hombres adultos":null,
-    "Personas con Discapacidad":null,
-    "Personas Indígenas":null,
-    "Personas Afromexicanas":null,
-    "Consecutivo":382
+    "Consecutivo":265
     }
   },
   {
@@ -9413,7 +9308,42 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":18,
-    "Consecutivo":383
+    "Consecutivo":266
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.02321104,16.435085 ]
+    },
+    "properties": {
+    "Programa":"Semilleros Creativos",
+    "Región":"Sur",
+    "Área":"PROY ESPECIALES",
+    "Coordinación":"DGVC",
+    "Estado":"Oaxaca",
+    "Municipio":"Heroica Ciudad de Juchitán de Zaragoza",
+    "Localidad":"Heroica Ciudad de Juchitán de Zaragoza",
+    "Nombre del semillero":"Semillero Creativo de Fotografía en Heroica Ciudad de Juchitán de Zaragoza, Oaxaca",
+    "Sedes":"Biblioteca Gabriel López Chiñas",
+    "Direcciones":"Av. Hidalgo # 12, Centro, Juchitán de Zaragoza, Oaxaca. C.P.70000",
+    "Horarios":"(en blanco)",
+    "Rama Artística (DT)":"Artes Visuales",
+    "Año de creación":"2019",
+    "Atención a las causas":"No",
+    "Número promotores":1,
+    "Cantidad de participantes":10,
+    "Niñas":5,
+    "Niños":5,
+    "Mujeres Jóvenes":0,
+    "Hombres Jóvenes":0,
+    "Mujeres adultas":0,
+    "Hombres adultos":0,
+    "Personas con Discapacidad":0,
+    "Personas Indígenas":0,
+    "Personas Afromexicanas":0,
+    "Consecutivo":267
     }
   },
   {
@@ -9448,7 +9378,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":10,
     "Personas Afromexicanas":0,
-    "Consecutivo":384
+    "Consecutivo":268
     }
   },
   {
@@ -9483,7 +9413,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":385
+    "Consecutivo":269
     }
   },
   {
@@ -9518,7 +9448,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":386
+    "Consecutivo":270
     }
   },
   {
@@ -9553,7 +9483,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":387
+    "Consecutivo":271
     }
   },
   {
@@ -9588,7 +9518,42 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":27,
     "Personas Afromexicanas":0,
-    "Consecutivo":388
+    "Consecutivo":272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.02321339,16.43507423 ]
+    },
+    "properties": {
+    "Programa":"Semilleros Creativos",
+    "Región":"Sur",
+    "Área":"PROY ESPECIALES",
+    "Coordinación":"DGVC",
+    "Estado":"Oaxaca",
+    "Municipio":"Santo Domingo Tehuantepec",
+    "Localidad":"Santo Domingo Tehuantepec",
+    "Nombre del semillero":"Semillero Creativo de Escritura Creativa en Lengua Zapoteca en Santo Domingo Tehuantepec, Oaxaca",
+    "Sedes":"Oficinas de la Casa de Cultura de Tehuantepec",
+    "Direcciones":"Calle Josefa Ortiz de Domínguez, Santo Domingo Tehuantepec, Oaxaca, C.P. 70760.",
+    "Horarios":"Lunes a viernes, de 15:00 a 19:00 h",
+    "Rama Artística (DT)":"Creación Literaria",
+    "Año de creación":"2025",
+    "Atención a las causas":"No",
+    "Número promotores":1,
+    "Cantidad de participantes":12,
+    "Niñas":6,
+    "Niños":6,
+    "Mujeres Jóvenes":null,
+    "Hombres Jóvenes":null,
+    "Mujeres adultas":null,
+    "Hombres adultos":null,
+    "Personas con Discapacidad":null,
+    "Personas Indígenas":null,
+    "Personas Afromexicanas":null,
+    "Consecutivo":273
     }
   },
   {
@@ -9623,7 +9588,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":389
+    "Consecutivo":274
     }
   },
   {
@@ -9648,17 +9613,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":30,
-    "Niñas":15,
-    "Niños":6,
-    "Mujeres Jóvenes":8,
-    "Hombres Jóvenes":1,
+    "Cantidad de participantes":41,
+    "Niñas":25,
+    "Niños":7,
+    "Mujeres Jóvenes":7,
+    "Hombres Jóvenes":2,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":1,
-    "Consecutivo":390
+    "Consecutivo":275
     }
   },
   {
@@ -9693,7 +9658,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":31,
     "Personas Afromexicanas":0,
-    "Consecutivo":391
+    "Consecutivo":276
     }
   },
   {
@@ -9728,7 +9693,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":392
+    "Consecutivo":277
     }
   },
   {
@@ -9763,7 +9728,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":393
+    "Consecutivo":278
     }
   },
   {
@@ -9798,7 +9763,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":27,
-    "Consecutivo":394
+    "Consecutivo":279
     }
   },
   {
@@ -9833,7 +9798,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":395
+    "Consecutivo":280
     }
   },
   {
@@ -9868,7 +9833,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":396
+    "Consecutivo":281
     }
   },
   {
@@ -9893,9 +9858,9 @@
     "Año de creación":"2022",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":16,
-    "Niñas":12,
-    "Niños":4,
+    "Cantidad de participantes":21,
+    "Niñas":11,
+    "Niños":10,
     "Mujeres Jóvenes":0,
     "Hombres Jóvenes":0,
     "Mujeres adultas":0,
@@ -9903,7 +9868,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":397
+    "Consecutivo":282
     }
   },
   {
@@ -9928,17 +9893,17 @@
     "Año de creación":"2024",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":46,
-    "Niñas":20,
-    "Niños":23,
-    "Mujeres Jóvenes":3,
-    "Hombres Jóvenes":0,
+    "Cantidad de participantes":48,
+    "Niñas":23,
+    "Niños":21,
+    "Mujeres Jóvenes":2,
+    "Hombres Jóvenes":2,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":398
+    "Consecutivo":283
     }
   },
   {
@@ -9963,17 +9928,17 @@
     "Año de creación":"2019",
     "Atención a las causas":"No",
     "Número promotores":3,
-    "Cantidad de participantes":32,
-    "Niñas":19,
-    "Niños":4,
-    "Mujeres Jóvenes":7,
-    "Hombres Jóvenes":2,
+    "Cantidad de participantes":36,
+    "Niñas":11,
+    "Niños":3,
+    "Mujeres Jóvenes":17,
+    "Hombres Jóvenes":5,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":399
+    "Consecutivo":284
     }
   },
   {
@@ -10008,7 +9973,7 @@
     "Personas con Discapacidad":1,
     "Personas Indígenas":40,
     "Personas Afromexicanas":0,
-    "Consecutivo":400
+    "Consecutivo":285
     }
   },
   {
@@ -10043,7 +10008,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":401
+    "Consecutivo":286
     }
   },
   {
@@ -10078,7 +10043,7 @@
     "Personas con Discapacidad":3,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":402
+    "Consecutivo":287
     }
   },
   {
@@ -10113,7 +10078,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":403
+    "Consecutivo":288
     }
   },
   {
@@ -10129,7 +10094,7 @@
     "Coordinación":"DGVC",
     "Estado":"Yucatán",
     "Municipio":"Tinum",
-    "Localidad":"Pisté",
+    "Localidad":"Pisté de Chichen Itzá",
     "Nombre del semillero":"Semillero Creativo de Escritura Creativa (Recuperación de la Música Tradicional) en Tinum, Yucatán",
     "Sedes":"Centro Cultural Pepe Domínguez",
     "Direcciones":"Calle 5 x 4 y 6, Pisté de Chichen Itzá, Yucatán, C.P 97751.",
@@ -10138,17 +10103,17 @@
     "Año de creación":"2022",
     "Atención a las causas":"No",
     "Número promotores":1,
-    "Cantidad de participantes":25,
-    "Niñas":7,
-    "Niños":14,
-    "Mujeres Jóvenes":0,
-    "Hombres Jóvenes":4,
+    "Cantidad de participantes":45,
+    "Niñas":22,
+    "Niños":17,
+    "Mujeres Jóvenes":1,
+    "Hombres Jóvenes":5,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":404
+    "Consecutivo":289
     }
   },
   {
@@ -10183,7 +10148,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":405
+    "Consecutivo":290
     }
   },
   {
@@ -10200,7 +10165,7 @@
     "Estado":"Chiapas",
     "Municipio":"San Cristóbal de las Casas",
     "Localidad":"San Cristóbal de las Casas",
-    "Nombre del semillero":"Semillero Coro Comunitario En Movimiento San Cristóbal de Las Casas",
+    "Nombre del semillero":"Coro Comunitario en Movimiento Slamalil k'inal K'ayoj yu'un Jlumaltik Bachajon",
     "Sedes":"Centro Cultural De La Zona Norte",
     "Direcciones":"Calle Julián Villagrán Numero 3 Colonia Belisario Domínguez CP. 29215",
     "Horarios":"Jueves y viernes De 16:00 A 19:00 h sábado De 08:00 A 14:00 h",
@@ -10218,7 +10183,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":406
+    "Consecutivo":291
     }
   },
   {
@@ -10253,7 +10218,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":407
+    "Consecutivo":292
     }
   },
   {
@@ -10288,7 +10253,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":408
+    "Consecutivo":293
     }
   },
   {
@@ -10323,7 +10288,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":409
+    "Consecutivo":294
     }
   },
   {
@@ -10358,7 +10323,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":410
+    "Consecutivo":295
     }
   },
   {
@@ -10393,7 +10358,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":411
+    "Consecutivo":296
     }
   },
   {
@@ -10428,7 +10393,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":412
+    "Consecutivo":297
     }
   },
   {
@@ -10463,7 +10428,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":413
+    "Consecutivo":298
     }
   },
   {
@@ -10498,7 +10463,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":414
+    "Consecutivo":299
     }
   },
   {
@@ -10533,7 +10498,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":415
+    "Consecutivo":300
     }
   },
   {
@@ -10568,7 +10533,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":416
+    "Consecutivo":301
     }
   },
   {
@@ -10603,7 +10568,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":417
+    "Consecutivo":302
     }
   },
   {
@@ -10638,7 +10603,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":418
+    "Consecutivo":303
     }
   },
   {
@@ -10673,7 +10638,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":419
+    "Consecutivo":304
     }
   },
   {
@@ -10708,7 +10673,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":420
+    "Consecutivo":305
     }
   },
   {
@@ -10743,7 +10708,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":421
+    "Consecutivo":306
     }
   },
   {
@@ -10778,7 +10743,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":422
+    "Consecutivo":307
     }
   },
   {
@@ -10813,7 +10778,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":423
+    "Consecutivo":308
     }
   },
   {
@@ -10848,7 +10813,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":424
+    "Consecutivo":309
     }
   },
   {
@@ -10883,7 +10848,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":425
+    "Consecutivo":310
     }
   },
   {
@@ -10918,7 +10883,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":426
+    "Consecutivo":311
     }
   },
   {
@@ -10953,7 +10918,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":427
+    "Consecutivo":312
     }
   },
   {
@@ -10988,7 +10953,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":428
+    "Consecutivo":313
     }
   },
   {
@@ -11005,7 +10970,7 @@
     "Estado":"Tabasco",
     "Municipio":"Centla",
     "Localidad":"Vicente Guerrero",
-    "Nombre del semillero":"Semillero Marimba Emsable Xin-Tla Tradicional",
+    "Nombre del semillero":"Semillero Marimba Ensamble Xin-Tla Tradicional",
     "Sedes":"Palapa de la Cultura del ISSSTE",
     "Direcciones":"Palapa de cultura del ISSET, calle Gregorio Mendez, esq. Vicente Riva Palacio, Villa Vicente, Centla, Tabasco.",
     "Horarios":"Lunes a Viernes 16:00 a 19:00",
@@ -11023,7 +10988,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":429
+    "Consecutivo":314
     }
   },
   {
@@ -11058,7 +11023,42 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":430
+    "Consecutivo":315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22273994,18.26363651 ]
+    },
+    "properties": {
+    "Programa":"Semilleros de Música",
+    "Región":"Sur",
+    "Área":"SNFM",
+    "Coordinación":"SNFM",
+    "Estado":"Tabasco",
+    "Municipio":"Comalcalco",
+    "Localidad":"Comalcalco",
+    "Nombre del semillero":"Semillero Marimba \"Chicchic Apan\"",
+    "Sedes":"Casa de Cultura Comalcalco",
+    "Direcciones":"Gregorio Méndez Magaña 202, Centro, 86300 Comalcalco, Tab.",
+    "Horarios":"Luneas a jueves de 15:00 a 18:00",
+    "Rama Artística (DT)":"Formación musical",
+    "Año de creación":"2025",
+    "Atención a las causas":"No",
+    "Número promotores":null,
+    "Cantidad de participantes":15,
+    "Niñas":3,
+    "Niños":4,
+    "Mujeres Jóvenes":3,
+    "Hombres Jóvenes":5,
+    "Mujeres adultas":0,
+    "Hombres adultos":0,
+    "Personas con Discapacidad":null,
+    "Personas Indígenas":null,
+    "Personas Afromexicanas":null,
+    "Consecutivo":316
     }
   },
   {
@@ -11093,7 +11093,42 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":431
+    "Consecutivo":317
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12837766,18.19503382 ]
+    },
+    "properties": {
+    "Programa":"Semilleros de Música",
+    "Región":"Sur",
+    "Área":"SNFM",
+    "Coordinación":"SNFM",
+    "Estado":"Tabasco",
+    "Municipio":"Jalpa de Méndez",
+    "Localidad":"Jalpa de Méndez",
+    "Nombre del semillero":"Semillero Marimba Maderas de Iquinuapa",
+    "Sedes":"Domicilio particular",
+    "Direcciones":"Entrada el Chayoteras, Pbo. Iquinuapa, Jalpa de Méndez",
+    "Horarios":"Lunes, miércoles y viernes 16:00 - 19:00 S 09:00 - 12:00",
+    "Rama Artística (DT)":"Formación musical",
+    "Año de creación":"2025",
+    "Atención a las causas":"No",
+    "Número promotores":null,
+    "Cantidad de participantes":12,
+    "Niñas":1,
+    "Niños":1,
+    "Mujeres Jóvenes":1,
+    "Hombres Jóvenes":7,
+    "Mujeres adultas":2,
+    "Hombres adultos":0,
+    "Personas con Discapacidad":null,
+    "Personas Indígenas":null,
+    "Personas Afromexicanas":null,
+    "Consecutivo":318
     }
   },
   {
@@ -11128,7 +11163,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":432
+    "Consecutivo":319
     }
   },
   {
@@ -11163,7 +11198,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":433
+    "Consecutivo":320
     }
   },
   {
@@ -11180,7 +11215,7 @@
     "Estado":"Tabasco",
     "Municipio":"Nacajuca",
     "Localidad":"El Tigre",
-    "Nombre del semillero":"Semillero Marimba son del Grijalva",
+    "Nombre del semillero":"Semillero Marimba Son del Grijalva",
     "Sedes":"Domicilio particular",
     "Direcciones":"Calle principal s/n Ranch. El Tigre sector Majahual, Nacajuca, Tabasco",
     "Horarios":"Martes a Jueves, Sábado y  Domingo de 15:00 a 18:00",
@@ -11198,7 +11233,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":434
+    "Consecutivo":321
     }
   },
   {
@@ -11233,7 +11268,42 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":435
+    "Consecutivo":322
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.97661277,18.1658737 ]
+    },
+    "properties": {
+    "Programa":"Semilleros de Música",
+    "Región":"Sur",
+    "Área":"SNFM",
+    "Coordinación":"SNFM",
+    "Estado":"Tabasco",
+    "Municipio":"Nacajuca",
+    "Localidad":"Nacajuca",
+    "Nombre del semillero":"Semillero Mariachi Juvenil Santa Cecilia",
+    "Sedes":"Domicilio particular",
+    "Direcciones":"Calle Vicente Guerrero s/n, Pob. Guatacalca, Nacajuca, Tabasco",
+    "Horarios":"Lunes a Viernes  15:00 - 18:00",
+    "Rama Artística (DT)":"Formación musical",
+    "Año de creación":"2025",
+    "Atención a las causas":"No",
+    "Número promotores":null,
+    "Cantidad de participantes":19,
+    "Niñas":1,
+    "Niños":5,
+    "Mujeres Jóvenes":3,
+    "Hombres Jóvenes":10,
+    "Mujeres adultas":0,
+    "Hombres adultos":0,
+    "Personas con Discapacidad":null,
+    "Personas Indígenas":null,
+    "Personas Afromexicanas":null,
+    "Consecutivo":323
     }
   },
   {
@@ -11268,7 +11338,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":436
+    "Consecutivo":324
     }
   },
   {
@@ -11303,7 +11373,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":437
+    "Consecutivo":325
     }
   },
   {
@@ -11338,7 +11408,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":438
+    "Consecutivo":326
     }
   },
   {
@@ -11373,7 +11443,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":439
+    "Consecutivo":327
     }
   },
   {
@@ -11408,7 +11478,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":440
+    "Consecutivo":328
     }
   },
   {
@@ -11443,7 +11513,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":441
+    "Consecutivo":329
     }
   },
   {
@@ -11478,7 +11548,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":442
+    "Consecutivo":330
     }
   },
   {
@@ -11513,7 +11583,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":443
+    "Consecutivo":331
     }
   },
   {
@@ -11530,7 +11600,7 @@
     "Estado":"Guerrero",
     "Municipio":"Acatepec",
     "Localidad":"Acatepec",
-    "Nombre del semillero":"Semilleros Creativos de la Niñez Indígena de Escritura Creativa y Expresión Artísticaen Acatepec, Acatepec, Guerrero, INPI",
+    "Nombre del semillero":"Semilleros Creativos de la Niñez Indígena de Escritura Creativa y Expresión Artística en Acatepec, Acatepec, Guerrero, INPI",
     "Sedes":"Casa Escolar de la Niñez Indígena Leona Vicario",
     "Direcciones":"Colonia Aviación, Carretera Tlatlauquitepec-Acatepec, a un lado del talle mecánico el \"PANCHO\", C.P. 41410",
     "Horarios":"(en blanco)",
@@ -11548,7 +11618,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":444
+    "Consecutivo":332
     }
   },
   {
@@ -11583,7 +11653,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":445
+    "Consecutivo":333
     }
   },
   {
@@ -11618,7 +11688,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":446
+    "Consecutivo":334
     }
   },
   {
@@ -11653,7 +11723,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":447
+    "Consecutivo":335
     }
   },
   {
@@ -11688,7 +11758,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":448
+    "Consecutivo":336
     }
   },
   {
@@ -11723,7 +11793,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":449
+    "Consecutivo":337
     }
   },
   {
@@ -11758,7 +11828,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":450
+    "Consecutivo":338
     }
   },
   {
@@ -11793,7 +11863,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":451
+    "Consecutivo":339
     }
   },
   {
@@ -11828,7 +11898,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":452
+    "Consecutivo":340
     }
   },
   {
@@ -11863,7 +11933,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":453
+    "Consecutivo":341
     }
   },
   {
@@ -11898,7 +11968,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":454
+    "Consecutivo":342
     }
   },
   {
@@ -11933,7 +12003,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":455
+    "Consecutivo":343
     }
   },
   {
@@ -11968,7 +12038,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":456
+    "Consecutivo":344
     }
   },
   {
@@ -12003,7 +12073,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":457
+    "Consecutivo":345
     }
   },
   {
@@ -12038,7 +12108,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":458
+    "Consecutivo":346
     }
   },
   {
@@ -12073,7 +12143,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":459
+    "Consecutivo":347
     }
   },
   {
@@ -12108,7 +12178,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":460
+    "Consecutivo":348
     }
   },
   {
@@ -12143,7 +12213,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":461
+    "Consecutivo":349
     }
   },
   {
@@ -12178,7 +12248,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":462
+    "Consecutivo":350
     }
   },
   {
@@ -12213,7 +12283,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":463
+    "Consecutivo":351
     }
   },
   {
@@ -12248,7 +12318,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":464
+    "Consecutivo":352
     }
   },
   {
@@ -12283,7 +12353,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":465
+    "Consecutivo":353
     }
   },
   {
@@ -12318,7 +12388,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":466
+    "Consecutivo":354
     }
   },
   {
@@ -12353,7 +12423,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":467
+    "Consecutivo":355
     }
   },
   {
@@ -12388,7 +12458,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":468
+    "Consecutivo":356
     }
   },
   {
@@ -12423,7 +12493,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":469
+    "Consecutivo":357
     }
   },
   {
@@ -12458,7 +12528,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":470
+    "Consecutivo":358
     }
   },
   {
@@ -12493,7 +12563,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":471
+    "Consecutivo":359
     }
   },
   {
@@ -12528,7 +12598,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":472
+    "Consecutivo":360
     }
   },
   {
@@ -12563,7 +12633,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":473
+    "Consecutivo":361
     }
   },
   {
@@ -12598,7 +12668,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":474
+    "Consecutivo":362
     }
   },
   {
@@ -12633,7 +12703,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":475
+    "Consecutivo":363
     }
   },
   {
@@ -12668,7 +12738,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":476
+    "Consecutivo":364
     }
   },
   {
@@ -12703,7 +12773,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":477
+    "Consecutivo":365
     }
   },
   {
@@ -12738,7 +12808,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":478
+    "Consecutivo":366
     }
   },
   {
@@ -12773,7 +12843,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":479
+    "Consecutivo":367
     }
   },
   {
@@ -12808,7 +12878,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":480
+    "Consecutivo":368
     }
   },
   {
@@ -12843,7 +12913,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":481
+    "Consecutivo":369
     }
   },
   {
@@ -12878,7 +12948,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":482
+    "Consecutivo":370
     }
   },
   {
@@ -12913,7 +12983,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":483
+    "Consecutivo":371
     }
   },
   {
@@ -12948,7 +13018,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":484
+    "Consecutivo":372
     }
   },
   {
@@ -12983,7 +13053,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":485
+    "Consecutivo":373
     }
   },
   {
@@ -13018,7 +13088,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":486
+    "Consecutivo":374
     }
   },
   {
@@ -13053,7 +13123,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":487
+    "Consecutivo":375
     }
   },
   {
@@ -13088,7 +13158,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":488
+    "Consecutivo":376
     }
   },
   {
@@ -13123,7 +13193,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":489
+    "Consecutivo":377
     }
   },
   {
@@ -13158,7 +13228,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":490
+    "Consecutivo":378
     }
   },
   {
@@ -13193,7 +13263,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":491
+    "Consecutivo":379
     }
   },
   {
@@ -13228,7 +13298,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":492
+    "Consecutivo":380
     }
   },
   {
@@ -13263,7 +13333,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":493
+    "Consecutivo":381
     }
   },
   {
@@ -13298,7 +13368,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":494
+    "Consecutivo":382
     }
   },
   {
@@ -13333,7 +13403,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":495
+    "Consecutivo":383
     }
   },
   {
@@ -13368,7 +13438,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":496
+    "Consecutivo":384
     }
   },
   {
@@ -13403,7 +13473,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":497
+    "Consecutivo":385
     }
   },
   {
@@ -13438,7 +13508,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":498
+    "Consecutivo":386
     }
   },
   {
@@ -13473,7 +13543,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":499
+    "Consecutivo":387
     }
   },
   {
@@ -13508,7 +13578,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":500
+    "Consecutivo":388
     }
   },
   {
@@ -13543,7 +13613,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":501
+    "Consecutivo":389
     }
   },
   {
@@ -13578,7 +13648,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":502
+    "Consecutivo":390
     }
   },
   {
@@ -13613,7 +13683,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":503
+    "Consecutivo":391
     }
   },
   {
@@ -13648,7 +13718,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":504
+    "Consecutivo":392
     }
   },
   {
@@ -13683,7 +13753,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":505
+    "Consecutivo":393
     }
   },
   {
@@ -13718,7 +13788,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":506
+    "Consecutivo":394
     }
   },
   {
@@ -13753,7 +13823,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":507
+    "Consecutivo":395
     }
   },
   {
@@ -13788,7 +13858,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":508
+    "Consecutivo":396
     }
   },
   {
@@ -13823,7 +13893,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":509
+    "Consecutivo":397
     }
   },
   {
@@ -13858,7 +13928,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":510
+    "Consecutivo":398
     }
   },
   {
@@ -13893,7 +13963,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":511
+    "Consecutivo":399
     }
   },
   {
@@ -13928,7 +13998,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":512
+    "Consecutivo":400
     }
   },
   {
@@ -13963,7 +14033,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":513
+    "Consecutivo":401
     }
   },
   {
@@ -13998,7 +14068,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":514
+    "Consecutivo":402
     }
   },
   {
@@ -14033,7 +14103,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":515
+    "Consecutivo":403
     }
   },
   {
@@ -14068,7 +14138,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":516
+    "Consecutivo":404
     }
   },
   {
@@ -14103,7 +14173,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":517
+    "Consecutivo":405
     }
   },
   {
@@ -14138,7 +14208,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":518
+    "Consecutivo":406
     }
   },
   {
@@ -14173,7 +14243,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":519
+    "Consecutivo":407
     }
   },
   {
@@ -14208,7 +14278,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":520
+    "Consecutivo":408
     }
   },
   {
@@ -14243,7 +14313,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":521
+    "Consecutivo":409
     }
   },
   {
@@ -14278,7 +14348,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":522
+    "Consecutivo":410
     }
   },
   {
@@ -14313,7 +14383,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":523
+    "Consecutivo":411
     }
   },
   {
@@ -14348,7 +14418,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":524
+    "Consecutivo":412
     }
   },
   {
@@ -14383,7 +14453,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":525
+    "Consecutivo":413
     }
   },
   {
@@ -14418,7 +14488,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":526
+    "Consecutivo":414
     }
   },
   {
@@ -14453,7 +14523,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":527
+    "Consecutivo":415
     }
   },
   {
@@ -14488,7 +14558,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":528
+    "Consecutivo":416
     }
   },
   {
@@ -14523,7 +14593,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":529
+    "Consecutivo":417
     }
   },
   {
@@ -14558,7 +14628,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":530
+    "Consecutivo":418
     }
   },
   {
@@ -14593,7 +14663,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":531
+    "Consecutivo":419
     }
   },
   {
@@ -14628,7 +14698,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":532
+    "Consecutivo":420
     }
   },
   {
@@ -14663,7 +14733,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":533
+    "Consecutivo":421
     }
   },
   {
@@ -14698,7 +14768,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":534
+    "Consecutivo":422
     }
   },
   {
@@ -14733,7 +14803,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":535
+    "Consecutivo":423
     }
   },
   {
@@ -14768,7 +14838,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":536
+    "Consecutivo":424
     }
   },
   {
@@ -14803,7 +14873,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":537
+    "Consecutivo":425
     }
   },
   {
@@ -14838,7 +14908,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":538
+    "Consecutivo":426
     }
   },
   {
@@ -14873,7 +14943,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":539
+    "Consecutivo":427
     }
   },
   {
@@ -14908,7 +14978,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":540
+    "Consecutivo":428
     }
   },
   {
@@ -14943,7 +15013,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":541
+    "Consecutivo":429
     }
   },
   {
@@ -14978,7 +15048,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":542
+    "Consecutivo":430
     }
   },
   {
@@ -15013,7 +15083,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":543
+    "Consecutivo":431
     }
   },
   {
@@ -15048,7 +15118,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":544
+    "Consecutivo":432
     }
   },
   {
@@ -15083,7 +15153,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":545
+    "Consecutivo":433
     }
   },
   {
@@ -15108,17 +15178,17 @@
     "Año de creación":"2025",
     "Atención a las causas":"Sí",
     "Número promotores":null,
-    "Cantidad de participantes":35,
-    "Niñas":21,
-    "Niños":9,
-    "Mujeres Jóvenes":2,
-    "Hombres Jóvenes":3,
+    "Cantidad de participantes":57,
+    "Niñas":34,
+    "Niños":11,
+    "Mujeres Jóvenes":7,
+    "Hombres Jóvenes":5,
     "Mujeres adultas":0,
     "Hombres adultos":0,
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":546
+    "Consecutivo":434
     }
   },
   {
@@ -15153,7 +15223,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":547
+    "Consecutivo":435
     }
   },
   {
@@ -15188,7 +15258,7 @@
     "Personas con Discapacidad":0,
     "Personas Indígenas":0,
     "Personas Afromexicanas":0,
-    "Consecutivo":548
+    "Consecutivo":436
     }
   }
 ]
